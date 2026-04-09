@@ -137,8 +137,8 @@ st.markdown(
 """,
     unsafe_allow_html=True,)
 
-col2.title(' Informe de Tránsito - La Estrella')
-st.sidebar.title('Menú Principal')
+# col2.title(' Informe de Tránsito - La Estrella')
+# st.sidebar.title('Menú Principal')
 
 ##### DESCRIPTIVO ----------------------------------------------------------
 
