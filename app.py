@@ -106,8 +106,8 @@ coord = load_data2(coord_url).dropna() # coordenadas
 data = load_coord()
 
 # poner titulo e imagen
-col1, col2 = st.beta_columns((1,7))
-col1.write(f'<div class = "image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Escudo_de_La_Estrella_%28Antioquia%29.svg/50px-Escudo_de_La_Estrella_%28Antioquia%29.svg.png" alt="Simply Easy Learning" width="50"height="70"alig></div>', unsafe_allow_html=True)
+# col1, col2 = st.beta_columns((1,7))
+# col1.write(f'<div class = "image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Escudo_de_La_Estrella_%28Antioquia%29.svg/50px-Escudo_de_La_Estrella_%28Antioquia%29.svg.png" alt="Simply Easy Learning" width="50"height="70"alig></div>', unsafe_allow_html=True)
 
 st.markdown(
     """
